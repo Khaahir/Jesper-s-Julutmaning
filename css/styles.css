@@ -21,8 +21,8 @@ body{
     #quizz-wrapper {
         width: 500px;
         height: 100vh;
-        background-image: url(/img/vecteezy_snowfall-rain-snow_13442104.png);
-        background-size: contain;
+        background: linear-gradient( 200deg, green, red, white)
+
     }
     
 
