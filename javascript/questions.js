@@ -20,7 +20,7 @@ export let quizQuestions = [
       correctAnswer: "Galadriel"
     },
     {
-     question: "Vilken karaktär är känd för att arbeta som fastighetsmäklare?",
+     question: "Vilken karaktär är känd för att arbeta som fastighetsmäklare? (modern family)",
      answerOpt: ["Phil Dunphy", "Jay Pritchett", "Cam Tucker", "Mitchell Pritchett"],
      correctAnswer: "Phil Dunphy"
     },
@@ -41,7 +41,7 @@ export let quizQuestions = [
       correctAnswer: "Led Zeppelin"
     },
     {
-      question: "Vad heter Glorias son i serien?",
+      question: "Vad heter Glorias son i serien? (modern family)",
       answerOpt: ["Manny Delgado", "Luke Dunphy", "Joe Pritchett", "Dylan Marshall"],
       correctAnswer: "Manny Delgado"
     },
@@ -82,7 +82,15 @@ export let quizQuestions = [
       correctAnswer: "Andúril"
     },
     {
-        question: "Vad heter Jays företag?",
+        question: "Vad heter den lilla staden som One Tree Hill utspelar sig i?",
+        answerOpt: ["Tree Hill",
+        "Ravenswood",
+        "Oak Hill",
+        "Sunnydale"],
+        correctAnswer: "Tree Hill"
+      },
+    {
+        question: "Vad heter Jays företag? (modern family)",
         answerOpt: ["Pritchett's Closets & Blinds", "Jay's Carpentry", "Pritchett & Co", "Closet King"],
         correctAnswer: "Pritchett's Closets & Blinds"
     },
@@ -92,7 +100,7 @@ export let quizQuestions = [
       correctAnswer: "Murph"
     },
     {
-      question: "Vilken sport älskar Phil Dunphy?",
+      question: "Vilken sport älskar Phil Dunphy? (modern family)",
       answerOpt: ["Basket", "Golf", "Fotboll", "Bowling"],
       correctAnswer: "Basket"
     },
@@ -112,6 +120,14 @@ export let quizQuestions = [
       correctAnswer: "Clean and Jerk"
     },
     {
+        question: "Vilket årtionde spelas den första säsongen av One Tree Hill i?",
+        answerOpt: ["1990-talet",
+        "2000-talet",
+        "2010-talet",
+        "1980-talet"],
+        correctAnswer: "2000-talet"
+      },
+    {
       question: "Vilket rockband släppte albumet 'Bohemian Rhapsody' på 1970-talet?",
       answerOpt: ["Queen", "The Rolling Stones", "Led Zeppelin", "The Doors"],
       correctAnswer: "Queen"
@@ -121,6 +137,14 @@ export let quizQuestions = [
       answerOpt: ["J.K. Rowling", "J.R.R. Tolkien", "George R.R. Martin", "C.S. Lewis"],
       correctAnswer: "J.R.R. Tolkien"
     },
+    {
+        question: "Vad heter den karaktär som Nate och Lucas får veta är deras halvsyster i säsong 6",
+        answerOpt: ["Carrie",
+        "Taylor James",
+        "Haley Scott",
+        "Quinn James"],
+        correctAnswer: "Taylor James"
+      },
     {
       question: "Vilken av dessa är en berömd CrossFit-atlet som är känd för sitt dominans inom sporten?",
       answerOpt: ["Matt Fraser", "Rich Froning", "Annie Thorisdottir", "Katrin Davidsdottir"],
@@ -157,6 +181,14 @@ export let quizQuestions = [
       correctAnswer: "Ian McKellen"
     },
     {
+        question: "Vad är namnet på Lucas Scotts bok som han publicerar under serien?",
+        answerOpt: ["An Unfinished Life",
+        "The Road Home",
+        "The River Court",
+        "A Walk to Remember"],
+        correctAnswer: "An Unfinished Life"
+      },
+    {
       question: "I CrossFit, vilken av följande är en standardövning för att förbättra överkroppsstyrka?",
       answerOpt: ["Pull-ups", "Squats", "Lunges", "Box jumps"],
       correctAnswer: "Pull-ups"
@@ -172,10 +204,18 @@ export let quizQuestions = [
       correctAnswer: "Sagan om Ringen"
     },
     {
-      question: "Vad är huvudmålet med CrossFit:s 'Fran'-träningspass?",
-      answerOpt: ["Att göra så många rundor som möjligt", "Att göra det så snabbt som möjligt", "Att lyfta mest vikt", "Att springa längst sträcka"],
-      correctAnswer: "Att göra det så snabbt som möjligt"
+      question: "Vad heter den bandmedlem som Peyton har en romantisk relation med under serien?",
+      answerOpt: ["Jake Jagielski",
+        "Mouth McFadden",
+        "Chris Keller",
+        "Quentin Fields"],
+      correctAnswer: "Jake Jagielski"
     },
+    {
+        question: "Vad är huvudmålet med CrossFit:s 'Fran'-träningspass?",
+        answerOpt: ["Att göra så många rundor som möjligt", "Att göra det så snabbt som möjligt", "Att lyfta mest vikt", "Att springa längst sträcka"],
+        correctAnswer: "Att göra det så snabbt som möjligt"
+      },
     {
       question: "På 1980-talet, vilket rockband släppte albumet 'Back In Black'?",
       answerOpt: ["AC/DC", "Queen", "The Rolling Stones", "Pink Floyd"],
