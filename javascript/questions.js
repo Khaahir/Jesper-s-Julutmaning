@@ -32,17 +32,17 @@ export let quizQuestions = [
     },
     {
       question: "Vad heter byn där Frodo Baggins kommer ifrån?",
-      answerOpt: ["Hobbiton", "Rohan", "Gondor", "Shire"],
+      answerOpt: ["Gondor", "Rohan", "Hobbiton", "Shire"],
       correctAnswer: "Hobbiton"
     },
     {
       question: "Vilken av dessa band var inte aktiva på 1980-talet?",
-      answerOpt: ["Led Zeppelin", "The Smiths", "Depeche Mode", "The Cure"],
+      answerOpt: ["Depeche Mode", "The Smiths", "Led Zeppelin", "The Cure"],
       correctAnswer: "Led Zeppelin"
     },
     {
       question: "Vad heter Glorias son i serien? (modern family)",
-      answerOpt: ["Manny Delgado", "Luke Dunphy", "Joe Pritchett", "Dylan Marshall"],
+      answerOpt: ["Dylan Marshall", "Luke Dunphy", "Joe Pritchett", "Manny Delgado"],
       correctAnswer: "Manny Delgado"
     },
     {
