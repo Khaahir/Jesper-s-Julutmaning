@@ -10,9 +10,9 @@ export let quizQuestions = [
       correctAnswer: "Greg Glassman"
     },
     {
-      question: "Vilken rockartist var känd som 'The Thin White Duke'?",
-      answerOpt: ["David Bowie", "Elton John", "Freddie Mercury", "Rod Stewart"],
-      correctAnswer: "David Bowie"
+      question: "Vilken är den mest talade språket i världen?",
+      answerOpt: ["Hindi", " Spanska", "Engelska", "Mandarin"],
+      correctAnswer: "Mandarin"
     },
     {
       question: "I Sagan om Ringen, vem är härskaren över Lothlórien?",
@@ -36,9 +36,9 @@ export let quizQuestions = [
       correctAnswer: "Hobbiton"
     },
     {
-      question: "Vilken av dessa band var inte aktiva på 1980-talet?",
-      answerOpt: ["Depeche Mode", "The Smiths", "Led Zeppelin", "The Cure"],
-      correctAnswer: "Led Zeppelin"
+      question: "Vilken låt gjorde Van Halen världsberömda 1984?",
+      answerOpt: ["Panama", "Jump", "Eruption", "Hot for Teacher"],
+      correctAnswer: "Jump"
     },
     {
       question: "Vad heter Glorias son i serien? (modern family)",
@@ -57,14 +57,14 @@ export let quizQuestions = [
       correctAnswer: "Workout Of the Day"
     },
     {
-      question: "I Sagan om Ringen, vem förstörde den En Ring?",
+      question: "I Sagan om Ringen, vem förstörde  Ringen?",
       answerOpt: ["Aragorn", "Gimli", "Frodo Baggins", "Gollum"],
       correctAnswer: "Gollum"
     },
     {
-      question: "Vilket rockband släppte albumet 'The Dark Side of the Moon' 1973?",
-      answerOpt: ["Led Zeppelin", "The Beatles", "Pink Floyd", "The Rolling Stones"],
-      correctAnswer: "Pink Floyd"
+      question: "Vad står UFC för?",
+      answerOpt: ["United Fighters Club", "Ultimate Fighting Championship", "Ultimate Fighter Championship", "Unstoppable Fight Circle"],
+      correctAnswer: "Ultimate Fighting Championship"
     },
     {
       question: "I Harry Potter, vad heter fängelset där Sirius Black var fången?",
@@ -72,8 +72,8 @@ export let quizQuestions = [
       correctAnswer: "Azkaban"
     },
     {
-      question: "Vem var sångare i Nirvana?",
-      answerOpt: ["Dave Grohl", "Kurt Cobain", "Chris Cornell", "Eddie Vedder"],
+      question: "Vad heter det största land utan en flod?",
+      answerOpt: ["Kina", "Saudiarabien", "Australien", "Kanada"],
       correctAnswer: "Kurt Cobain"
     },
     {
@@ -138,7 +138,7 @@ export let quizQuestions = [
       correctAnswer: "J.R.R. Tolkien"
     },
     {
-        question: "Vad heter den karaktär som Nate och Lucas får veta är deras halvsyster i säsong 6",
+        question: "Vad heter den karaktär som Nate och Lucas får veta är deras halvsyster i säsong 6 (One Three Hill",
         answerOpt: ["Carrie",
         "Taylor James",
         "Haley Scott",
@@ -151,9 +151,9 @@ export let quizQuestions = [
       correctAnswer: "Matt Fraser"
     },
     {
-      question: "I 1980-talet, vem var sångare i bandet 'INXS'?",
-      answerOpt: ["Michael Hutchence", "Jim Morrison", "Chris Cornell", "Freddie Mercury"],
-      correctAnswer: "Michael Hutchence"
+      question: "Vilken låt blev en stor hit för Whitesnake 1987?",
+      answerOpt: [" Still of the Night", "Fool for Your Loving", "Here I Go Again", "Is This Love"],
+      correctAnswer: "Here I Go Again "
     },
     {
       question: "I Harry Potter, vem blev rektor på Hogwarts efter Dumbledores död?",
@@ -166,9 +166,9 @@ export let quizQuestions = [
       correctAnswer: "2001"
     },
     {
-      question: "Vilken artist är känd för hitlåten 'Smells Like Teen Spirit'?",
-      answerOpt: ["Nirvana", "Pearl Jam", "Soundgarden", "Alice In Chains"],
-      correctAnswer: "Nirvana"
+      question: "Vilken planet i vårt solsystem har den kortaste dagen, där ett dygn bara varar cirka 10 timmar??",
+      answerOpt: ["Jupiter", "Saturnus", "Uranus", "Neptunus"],
+      correctAnswer: "Jupiter"
     },
     {
       question: "Vilken stad var värd för sommar-OS 2008?",
@@ -181,7 +181,7 @@ export let quizQuestions = [
       correctAnswer: "Ian McKellen"
     },
     {
-        question: "Vad är namnet på Lucas Scotts bok som han publicerar under serien?",
+        question: "Vad är namnet på Lucas Scotts bok som han publicerar under serien? (One Three Hill",
         answerOpt: ["An Unfinished Life",
         "The Road Home",
         "The River Court",
@@ -194,7 +194,7 @@ export let quizQuestions = [
       correctAnswer: "Pull-ups"
     },
     {
-      question: "Vilket band släppte det ikoniska albumet 'Thriller' på 1980-talet?",
+      question: "Vilken artist släppte det ikoniska albumet 'Thriller' på 1980-talet?",
       answerOpt: ["Michael Jackson", "Prince", "Madonna", "Whitney Houston"],
       correctAnswer: "Michael Jackson"
     },
@@ -204,7 +204,7 @@ export let quizQuestions = [
       correctAnswer: "Sagan om Ringen"
     },
     {
-      question: "Vad heter den bandmedlem som Peyton har en romantisk relation med under serien?",
+      question: "Vad heter den bandmedlem som Peyton har en romantisk relation med under serien? (One three hill)",
       answerOpt: ["Jake Jagielski",
         "Mouth McFadden",
         "Chris Keller",
