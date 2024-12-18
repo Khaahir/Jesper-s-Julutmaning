@@ -5,11 +5,16 @@ let questionsOne = document.getElementById("question-one")
 let questionsTwo = document.getElementById("question-two")
 let questionsThree = document.getElementById("question-three")
 let questionsFour = document.getElementById("question-four")
+let questionAmount = document.getElementById("question-amount")
+let count =document.getElementById("count")
+
 let startBtn = document.querySelector(".startBtn")
 let questions = document.getElementById("questions");
 
 let questionindex = 0
 let points = 0
+questionAmount.textContent = quizQuestions.length
+
 
 console.log(quizQuestions);
 
@@ -41,6 +46,7 @@ const quizzHandler = ()=>{
                 console.log(points);
             }
             questionindex +=1
+            count.textContent = questionindex
             updateQuestions()
         }   
     })
